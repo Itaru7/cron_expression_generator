@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "cron_expression_generator"
+puts CronExpressionGenerator.generate(start_time: ARGV[0], end_time: ARGV[1], interval_minutes: ARGV[2])

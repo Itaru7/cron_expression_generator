@@ -1,5 +1,7 @@
 # cron_expression_generator
 
+[cron_expression_generator @rubygems.org](https://rubygems.org/gems/cron_expression_generator)
+
 ## About
 
 > A **gem** to generates a set of cron expression(s) to satisfy the range of **2** given `start_datetime` and `end_datetime` and `interval minutes`.

@@ -8,13 +8,12 @@
 
 ## Table of Contents
 
-- [cron\_expression\_generator](#cron_expression_generator)
-    - [About](#about)
-    - [Table of Contents](#table-of-contents)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Constraints](#constraints)
-    - [License](#license)
+- [About](#about)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Constraints](#constraints)
+- [License](#license)
 
 ## Installation
 
